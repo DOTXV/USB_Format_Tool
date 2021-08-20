@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+  Form1.cpp
+  format_tool.cpp
+  正在產生程式碼...
+d:\format_tool\fatformat\format_tool.cpp(623): warning C4172: 傳回區域變數或暫存的位址: b_sec
+d:\format_tool\fatformat\format_tool.cpp(639): warning C4172: 傳回區域變數或暫存的位址: fs_sec
+d:\format_tool\fatformat\format_tool.cpp(701): warning C4172: 傳回區域變數或暫存的位址: b_sec
+d:\format_tool\fatformat\format_tool.cpp(727): warning C4172: 傳回區域變數或暫存的位址: r_sec
+d:\format_tool\fatformat\format_tool.cpp(757): warning C4172: 傳回區域變數或暫存的位址: b_sec
+d:\format_tool\fatformat\format_tool.cpp(787): warning C4172: 傳回區域變數或暫存的位址: checksum_sec
+d:\format_tool\fatformat\format_tool.cpp(821): warning C4172: 傳回區域變數或暫存的位址: initfile
+d:\format_tool\fatformat\format_tool.cpp(863): warning C4172: 傳回區域變數或暫存的位址: initFAT
+d:\format_tool\fatformat\format_tool.cpp(898): warning C4172: 傳回區域變數或暫存的位址: initBit
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  Fatformat.vcxproj -> D:\Format_tool\Debug\Fatformat.exe
